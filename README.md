@@ -1,2 +1,0 @@
-# AppProductFlavorShell
-通过修改gradle配置实现放开指定部分项目
